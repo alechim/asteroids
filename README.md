@@ -2,8 +2,6 @@
 
 A recreation of the classic Asteroids arcade game, built with Python and Pygame. This is my second project from boot.dev.
 
-> **Note:** This project is currently in development. The movement system is implemented, but additional features (shooting, asteroids, collision detection, etc.) are still being added as I progress through the course.
-
 ## About
 
 Control a spaceship as you navigate through space, shooting asteroids to rack up points. Avoid collisions while clearing the screen of incoming threats!
@@ -30,6 +28,7 @@ python main.py
 - **S** - Move backward
 - **A** - Rotate counter-clockwise
 - **D** - Rotate clockwise
+- **SPACE** - Fire the lasers
 
 ---
 
